@@ -24,3 +24,4 @@
 - [light scattering](http://fabiensanglard.net/lightScattering/)
 - [gaussian distribution](http://www.alanzucconi.com/2015/09/09/understanding-the-gaussian-distribution/)
 - [howto 2D tilesets](https://youtu.be/MFvsRvo_78Y)
+- [colors in gamedesign](https://vc.ru/p/color-in-game-design)
