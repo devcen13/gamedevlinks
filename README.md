@@ -46,6 +46,7 @@
 - [No excuse list](http://noexcuselist.com/)
 - [University of reddit](http://universityofreddit.com/)
 - [Beat chart](http://habrahabr.ru/post/260519/) *(russian)*
+- [Free chocofur arch viz shaders](http://www.blendernation.com/2015/09/03/free-chocofur-arch-viz-shaders/)
 
 # References
 
