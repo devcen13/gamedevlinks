@@ -61,7 +61,7 @@
 - [Mayang’s Free Textures](http://www.mayang.com/textures/)
 - [CGTextures](http://www.cgtextures.com/) *(Partitially free)*
 
-# Free assets (2D)
+# Free assets (3D)
 
 - [TF3DM](http://tf3dm.com/)
 - [Archive3D](http://archive3d.net/)
