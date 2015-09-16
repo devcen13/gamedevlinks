@@ -47,6 +47,21 @@
 - [University of reddit](http://universityofreddit.com/)
 - [Beat chart](http://habrahabr.ru/post/260519/) *(russian)*
 - [Free chocofur arch viz shaders](http://www.blendernation.com/2015/09/03/free-chocofur-arch-viz-shaders/)
+- [gamefromscratch](http://www.gamefromscratch.com/)
+- [AI for games](http://habrahabr.ru/company/intel/blog/265679/) *(russian)*
+- [real world height maps](http://terrain.party/)
+- [Learn OpenGL](http://learnopengl.com/)
+- [Game balance](https://vc.ru/p/game-balance) *(russian)*
+- [Google analytics in games](http://gamasutra.com/blogs/NemanjaBondzulic/20150825/252136/Google_Analytics_in_games.php)
+- [2D platforms tutorial](http://habrahabr.ru/post/265911/) *(russian)*
+- [multithreaded architecture for game engine](http://habrahabr.ru/company/intel/blog/266427/) *(russian)*
+- [Research on sampling methods for real-time volume rendering](https://github.com/huwb/volsample)
+- [Particle Systems using Constrained Dynamics](http://www.gamedev.net/page/resources/_/technical/math-and-physics/particle-systems-using-constrained-dynamics-r4170)
+- [nD tree realization](https://github.com/gnzlbg/ndtree)
+- [social game design](http://blogs.unity3d.com/2015/09/01/games-made-for-sharing-social-game-design/)
+- [A little stack machine for making textures](https://github.com/Lerc/stackie)
+- [play, record, merge videos in iOS](http://www.raywenderlich.com/94404/play-record-merge-videos-ios-swift)
+- [Using lua and c++](https://eliasdaler.wordpress.com/2015/08/10/using-lua-and-cpp-in-practice/)
 
 # References
 
@@ -69,4 +84,15 @@
 - [ScetchFab](https://sketchfab.com/)
 - [Clara.io](https://clara.io/) *(Partitially free)*
 - [Blend swap](http://www.blendswap.com/)
+- [Medieval setting](http://indiebits.com/3d-models-for-medieval-settings-creative-commons-3-0-and-0-0)
  
+# Unity
+
+- [unity tools](https://vc.ru/p/unity-comongames) *(russian)*
+- [howto towerdefense](http://www.raywenderlich.com/107525/create-tower-defense-game-unity-part-1)
+- [global illumination in unity5](http://habrahabr.ru/post/251045/) *(russian)*
+- [Designing a jump](http://gamasutra.com/blogs/DanielFineberg/20150825/244650/Designing_a_Jump_in_Unity.php)
+- [Physics best practicies](http://unity3d.com/ru/learn/tutorials/modules/intermediate/physics/physics-best-practices)
+- [Jurrasic](https://www.assetstore.unity3d.com/en/#!/content/2345)
+- [Quake style dev console](http://substantial.com/blog/2014/01/20/implementing-a-quake-style-developer-console-in-unity3d/)
+- [Cave generation](https://www.youtube.com/playlist?list=PLFt_AvWsXl0eZgMK_DT5_biRkWXftAOf9)
