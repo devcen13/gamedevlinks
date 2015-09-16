@@ -22,3 +22,4 @@
 - [2d pathfinding](http://gamedevelopment.tutsplus.com/tutorials/how-to-adapt-a-pathfinding-to-a-2d-grid-based-platformer-implementation--cms-24679)
 - [lightning](http://www.cuchazinteractive.com/blog/nep-lights)
 - [light scattering](http://fabiensanglard.net/lightScattering/)
+- [gaussian distribution](http://www.alanzucconi.com/2015/09/09/understanding-the-gaussian-distribution/)
