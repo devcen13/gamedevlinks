@@ -62,6 +62,7 @@
 - [A little stack machine for making textures](https://github.com/Lerc/stackie)
 - [play, record, merge videos in iOS](http://www.raywenderlich.com/94404/play-record-merge-videos-ios-swift)
 - [Using lua and c++](https://eliasdaler.wordpress.com/2015/08/10/using-lua-and-cpp-in-practice/)
+- [Game design tutorials](https://game-design-tutorials.zeef.com/nathan.lovato)
 
 # References
 
